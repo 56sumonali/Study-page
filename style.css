@@ -118,11 +118,15 @@ header .headercontent nav ul li a:hover{
 }
 footer{
     width: 100%;
-    height: 200px;
+    height: 150px;
     background-color: black;
     margin-top: 100px;
     justify-items: center;
     justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
 }
 footer .aboutme{
     width: 50%;
@@ -130,4 +134,5 @@ footer .aboutme{
 footer .aboutme p{
     color: white;
     text-align: center;
+    line-height: 25px;
 }
